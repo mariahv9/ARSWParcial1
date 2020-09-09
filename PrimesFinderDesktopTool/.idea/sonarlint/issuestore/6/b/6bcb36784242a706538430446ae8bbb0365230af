@@ -1,0 +1,58 @@
+
+p
+java:S1104"SMake monitor a static final constant or non-public and provide accessors if needed.(ÊŒ¾”8Á… Ç.
+Z
+java:S1128"DRemove this unused import 'org.apache.http.client.methods.HttpPost'.(ßó¢Ç
+e
+java:S1128"JRemove this unused import 'org.apache.http.impl.client.HttpClientBuilder'.(İØÒıÿÿÿÿ
+M
+java:S1444"+Make this "public static pause" field final(ÕÇØÍşÿÿÿÿ8ËÉ— Ç.
+U
+java:S1128"?Remove this unused import 'org.apache.http.entity.ContentType'.(¬ÑÕ‡
+A
+java:S21299"$Remove this "BigInteger" constructor(±Ï÷ü8ÍŞ­ŸÇ.
+L
+java:S3740"/Provide the parametrized type for this generic.(’çşÔ8ÀŞ ŸÇ.
+[
+java:S1128"@Remove this unused import 'org.apache.http.entity.StringEntity'.(ş©Ú‹şÿÿÿÿ
+Z	java:S106K"9Replace this use of System.out or System.err by a logger.(å”ˆ«úÿÿÿÿ8­™» Ç.
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(‹öøß8ëŞ½ Ç.
+U	java:S106?"9Replace this use of System.out or System.err by a logger.(¶¾ªÀ8¬ïÑŸÇ.
+U	java:S106^"9Replace this use of System.out or System.err by a logger.(ôƒÍ¤8çÜ¡ Ç.
+„
+java:S1845)"bRename method "pause" to prevent any misunderstanding/clash with field "pause" defined on line 21.(ò‘œŸÿÿÿÿÿ8ËÉ— Ç.
+A
+java:S21299"$Remove this "BigInteger" constructor(±Ï÷ü8ÍŞ­ŸÇ.
+
+java:S1319"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(’çşÔ8åş’ŸÇ.
+Z	java:S106_"9Replace this use of System.out or System.err by a logger.(şŒ©ƒşÿÿÿÿ8“µ¸ Ç.
+h
+java:S2142S"FEither re-interrupt this method or rethrow the "InterruptedException".(è®ã¶øÿÿÿÿ8“µ¸ Ç.
+o
+java:S37764"RRefactor this method to reduce its Cognitive Complexity from 16 to the 15 allowed.(Çµí‘8È±½ Ç.
+s
+java:S1104"QMake pause a static final constant or non-public and provide accessors if needed.(ÕÇØÍşÿÿÿÿ8ËÉ— Ç.
+Q
+java:S3740"/Provide the parametrized type for this generic.(ÇÂ–ıùÿÿÿÿ8‹È ŸÇ.
+J
+java:S1444"-Make this "public static monitor" field final(ÊŒ¾”8Á… Ç.
+T
+java:S1128">Remove this unused import 'org.apache.http.client.HttpClient'.(¨­—
+N
+java:S1444",Make this "public static finish" field final(ÇüÀüÿÿÿÿ8ÍíòŸÇ.
+t
+java:S1104"RMake finish a static final constant or non-public and provide accessors if needed.(ÇüÀüÿÿÿÿ8ÍíòŸÇ.
+I
+java:S14817",Remove this unused "maxPrim" local variable.(ôàÊÀ8åş’ŸÇ.
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8¶²œŸÇ.
+K
+java:S1128"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+T
+java:S1128"9Remove this unused import 'org.apache.http.HttpResponse'.(«°üİÿÿÿÿÿ
+c
+java:S2142Z"FEither re-interrupt this method or rethrow the "InterruptedException".(ä ¹€8“µ¸ Ç.
+X
+java:S18547";Remove this useless assignment to local variable "maxPrim".(ôàÊÀ8åş’ŸÇ.
+L
+java:S37409"/Provide the parametrized type for this generic.(±Ï÷ü8ÍŞ­ŸÇ.

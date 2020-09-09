@@ -1,0 +1,15 @@
+
+^
+java:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Æøîç
+B
+java:S14520"&Remove usage of generic wildcard type.(£ár8Ù‡²¡Ç.
+l
+java:S4488%"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ßƒµ¢şÿÿÿÿ8†ç¡¡Ç.
+s
+java:S1128"QRemove this unused import 'edu.eci.arsw.api.primesrepo.service.PrimeServiceStub'.(ÁËáñúÿÿÿÿ8Íü˜¡Ç.
+C
+java:S1452"&Remove usage of generic wildcard type.(××¤8ä½•¡Ç.
+H
+java:S1452&"&Remove usage of generic wildcard type.(Ğí½¨ıÿÿÿÿ8ğŠ¡Ç.
+d
+java:S4488/"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ê8Ù‡²¡Ç.
